@@ -13,9 +13,14 @@
 
 # Completed certifications
 
-[![DevOps Engineer](./images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/924fd643-293d-463b-a9ec-11e7287c9c78/public_url)
-
-[![Microsoft Devops Engineer Expert](./images/microsoft-certified-expert-badge.svg)](https://learn.microsoft.com/api/credentials/share/en-us/HughWoodfall-5505/4A645CF2D8D85763?sharingId=6964DF61A4B5F78F)
+<div align="center" style="justify-content: center; align-items: center;" >
+  <a href="https://www.credly.com/badges/924fd643-293d-463b-a9ec-11e7287c9c78/public_url" target="_blank">
+    <img src="./images/aws-certified-solutions-architect-associate.png" width="200" height="200" >
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HughWoodfall-5505/4A645CF2D8D85763?sharingId=6964DF61A4B5F78F" target="_blank">
+    <img src="./images/microsoft-certified-expert-badge.svg" width="200" height="200" >
+  </a>
+</div>
 
 # Stats
   <div align="center" style="justify-content: center; align-items: center;" >
